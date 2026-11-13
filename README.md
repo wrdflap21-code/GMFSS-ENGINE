@@ -1,2 +1,2 @@
-# SakugaEngine
-Anime frame interpolation engine for Sakugaloader
+# GMFSS
+Anime frame interpolation engine 
